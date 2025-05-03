@@ -11,5 +11,5 @@ This lab was built to reinforce and demonstrate a wide range of CCNA topics. It 
 - IPv6 static routing
 - Layer-2 security (DHCP Snooping, DAI, Port Security)
 
-Tool used: Cisco Packet Tracer
-Level: CCNA exam preparation
+- Tool used: Cisco Packet Tracer
+- Level: CCNA exam preparation
