@@ -9,7 +9,7 @@ The lab is based on a tutorial by [Jeremy’s IT Lab on YouTube](https://www.you
 
 Below is the network diagram for the lab, showing two offices (A and B) connected via core switches, with various devices including routers, switches, wireless controllers, and end devices.
 
-![Network Topology](topolgy.png.png)
+![Network Topology](topology.png.png)
 
 ---
 
